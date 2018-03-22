@@ -9,9 +9,9 @@ x-alexaRank: ""
 tags:
 - News
 - Media
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/semantics/master/_listings/new-york-times/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/semantics/master/_listings/new-york-times/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: New York Times
@@ -23,7 +23,7 @@ apis:
   tags: Semantics
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/semantics/master/_listings/new-york-times/name-concept-type-specific-concept-json-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/semantics/master/_listings/new-york-times/name-concept-type-specific-concept-json-get.md
 x-common:
 - type: x-application-gallery
   url: http://developer.nytimes.com/gallery
